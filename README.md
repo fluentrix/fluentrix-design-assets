@@ -10,7 +10,7 @@
 <h3 align="center">Fluentrix</h3>
 <h4 align="center">fluentrix-design-assets</h3>
   <p align="left">
-    Fluentrix's Assets repository contains the design and branding resources used across the project. It includes logos, architectural diagrams, and other materials essential for presenting Overhang.
+    Fluentrix's Assets repository contains the design and branding resources used across the project. It includes logos, architectural diagrams, and other materials essential for presenting Fluentrix.
   <br />
   <br />
   </p>
